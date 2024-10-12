@@ -1,0 +1,30 @@
+{
+  "name": "skkulab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Last-Lap/SKKULab.git"
+  },
+  "keywords": [
+    "SBERT",
+    "GPT",
+    "prompt",
+    "mAP@K",
+    "GRAD",
+    "Lab",
+    "Similarity",
+    "based",
+    "recommendation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Last-Lap/SKKULab/issues"
+  },
+  "homepage": "https://github.com/Last-Lap/SKKULab#readme"
+}
